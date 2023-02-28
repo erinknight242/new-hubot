@@ -1,5 +1,5 @@
 # Description:
-#   Example scripts for you to examine and try out.
+#   Example scripts for you to examine and try out. Edited to check deployment.
 #
 # Notes:
 #   They are commented out by default, because most of them are pretty silly and
